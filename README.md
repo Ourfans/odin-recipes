@@ -1,3 +1,5 @@
+This website is a training project. I created a homepage with links to three recipes. each recipe features headings, a paragraph, and unordered list, and an ordered list.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Ourfans/odin-recipes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
