@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # odin-recipes
 
 This website is a training project. I created a homepage with links to three recipes. Each recipe features headings, a paragraph, and unordered list, and an ordered list.
