@@ -1,0 +1,33 @@
+body {
+  font-size: 20px;
+  font-family: Tahoma, sans-serif;
+  color: #030013;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Garamond, serif;
+}
+
+#main-menu {
+  background-color: #fcffec;;
+}
+
+.orange {
+  background-color: #030013;
+  color: #cf8600;
+}
+
+ul {
+  background-color: #030013;
+  color: #00af00;
+}
+
+ol {
+  background-color: #030013;
+  color: #0000c6;
+}
